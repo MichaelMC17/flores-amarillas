@@ -41,41 +41,6 @@ def home():
             "img": "/static/img/amigo4.jpg",
             "mensaje": "¡Videos inolvidables!",
             "dificultad": 3
-        },
-        {
-            "id": 6,
-            "titulo": "Beber en las Peñas X2",
-            "img": "/static/img/amigo6.jpg",
-            "mensaje": "¡Videos inolvidables!",
-            "dificultad": 3
-        },
-        {    
-            "id": 7,
-            "titulo": "Salida de Amigos",
-            "img": "/static/img/amigo7.jpg",
-            "mensaje": "¡Las risas que nunca deben faltar!",
-            "dificultad": 3
-        },
-        {
-            "id": 8,
-            "titulo": "Parrillada",
-            "img": "/static/img/amigo8.jpg",
-            "mensaje": "¡Terminamos bebiendo como siempre JAJA!",
-            "dificultad": 3
-        },
-        {    
-            "id": 9,
-            "titulo": "Quinceañera Check",
-            "img": "/static/img/amigo9.jpg",
-            "mensaje": "¡Lindos y gorditos muchachos!",
-            "dificultad": 3
-        },
-        {    
-            "id": 10,
-            "titulo": "Quinceañera Check X2",
-            "img": "/static/img/amigo10.jpg",
-            "mensaje": "¡Que elegancia la de Francia!",
-            "dificultad": 3
         }
     ]
     return render_template('index.html', niveles=niveles)
