@@ -8,38 +8,38 @@ def home():
     niveles = [
         {
             "id": 1,
-            "titulo": "Carnaval Juntos",
+            "titulo": "Abrazos y risas",
             "img": "/static/img/amigo1.jpg",
             "mensaje": "¡Qué buenos recuerdos!",
             "dificultad": 3  # Matriz 3x3 (9 piezas)
         },
         {
             "id": 2,
-            "titulo": "Carnaval X2",
+            "titulo": "Amor",
             "img": "/static/img/amigo5.jpg",
-            "mensaje": "¡Los zapatos de Melvin bien perdidos en el taxi!",
+            "mensaje": "¡Corazon!",
             "dificultad": 3  # Matriz 3x3 (9 piezas)
         },
         {
             "id": 3,
-            "titulo": "En el cumpleaños de Brit",
+            "titulo": "Olimpiadas amor",
             "img": "/static/img/amigo2.jpg",
             "mensaje": "¡Que bien lo pasamos!",
             "dificultad": 3
         },
         {
             "id": 4,
-            "titulo": "Partido de la Seleccion Juntos",
+            "titulo": "08",
             "img": "/static/img/amigo3.jpg",
-            "mensaje": "¡Siempre unidos pase lo que pase!",
+            "mensaje": "¡Siempre unidos",
             "dificultad": 3
         },
         # --- NUEVOS NIVELES AQUÍ ---
         {
             "id": 5,
-            "titulo": "Beber en las Peñas",
+            "titulo": "Fotitos divertidas",
             "img": "/static/img/amigo4.jpg",
-            "mensaje": "¡Videos inolvidables!",
+            "mensaje": "¡Fotos inolvidables!",
             "dificultad": 3
         }
     ]
