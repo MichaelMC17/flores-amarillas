@@ -8,28 +8,28 @@ def home():
     niveles = [
         {
             "id": 1,
-            "titulo": "Abrazos y risas",
+            "titulo": "¡Que buenos recuerdos!",
             "img": "/static/img/amigo1.jpg",
-            "mensaje": "¡Qué buenos recuerdos!",
+            "mensaje": "¡Que buenos recuerdos!",
             "dificultad": 3  # Matriz 3x3 (9 piezas)
         },
         {
             "id": 2,
-            "titulo": "Amor",
+            "titulo": "Manitos",
             "img": "/static/img/amigo2.jpg",
             "mensaje": "¡Manitos!",
             "dificultad": 3  # Matriz 3x3 (9 piezas)
         },
         {
             "id": 3,
-            "titulo": "Olimpiadas amor",
+            "titulo": "¡Abrazos y risas!",
             "img": "/static/img/amigo3.jpg",
             "mensaje": "¡Abrazos y risas!",
             "dificultad": 3
         },
         {
             "id": 4,
-            "titulo": "08",
+            "titulo": "¡08 por siempre!",
             "img": "/static/img/amigo4.jpg",
             "mensaje": "¡08 por siempre!",
             "dificultad": 3
@@ -37,7 +37,7 @@ def home():
         # --- NUEVOS NIVELES AQUÍ ---
         {
             "id": 5,
-            "titulo": "Fotitos divertidas",
+            "titulo": "¡Fotos inolvidables!",
             "img": "/static/img/amigo5.jpg",
             "mensaje": "¡Fotos inolvidables!",
             "dificultad": 3
