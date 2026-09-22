@@ -16,29 +16,29 @@ def home():
         {
             "id": 2,
             "titulo": "Amor",
-            "img": "/static/img/amigo5.jpg",
-            "mensaje": "¡Corazon!",
+            "img": "/static/img/amigo2.jpg",
+            "mensaje": "¡Manitos!",
             "dificultad": 3  # Matriz 3x3 (9 piezas)
         },
         {
             "id": 3,
             "titulo": "Olimpiadas amor",
-            "img": "/static/img/amigo2.jpg",
-            "mensaje": "¡Que bien lo pasamos!",
+            "img": "/static/img/amigo3.jpg",
+            "mensaje": "¡Abrazos y risas!",
             "dificultad": 3
         },
         {
             "id": 4,
             "titulo": "08",
-            "img": "/static/img/amigo3.jpg",
-            "mensaje": "¡Siempre unidos",
+            "img": "/static/img/amigo4.jpg",
+            "mensaje": "¡08 por siempre!",
             "dificultad": 3
         },
         # --- NUEVOS NIVELES AQUÍ ---
         {
             "id": 5,
             "titulo": "Fotitos divertidas",
-            "img": "/static/img/amigo4.jpg",
+            "img": "/static/img/amigo5.jpg",
             "mensaje": "¡Fotos inolvidables!",
             "dificultad": 3
         }
